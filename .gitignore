@@ -4,3 +4,7 @@ opennhrpctl
 *.d
 *.cmd
 *~
+debian/files
+debian/osvx-opennhrp.debhelper.log
+debian/osvx-opennhrp.substvars
+debian/osvx-opennhrp/
